@@ -14,7 +14,7 @@ body{
     background-color:white;
 }
 #container #contents .photo_btn  li {float: left;}
-#container #contents .photo_frame {position: absolute; float: left; margin-left: 82px; margin-top: 120px;}
+#container #contents .photo_frame {position: absolute; float: left;  margin-top: 165px;}
 #container #contents .photo_frame dd {float:left; margin-right: 12px;}
 #container #contents .photo_frame dd img{width: 222px;}
 
@@ -61,7 +61,7 @@ canvas  {
 	text-align: center;
 
 }
-.frame {position: absolute; z-index: 100; margin-top: -686px; margin-left: 45px;}
+.frame {position: absolute; z-index: 100; margin-top: -686px; margin-left: 30px;}
 .photo_start {position: absolute; margin-top: -686px; margin-left: 30px;}
 .email_state {position: absolute; z-index: 10; margin-top: -686px; margin-left: 30px;}
 /*
